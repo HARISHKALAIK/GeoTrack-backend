@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e95475a6-0868-4a2f-afc1-4310aef6c280")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoTrack.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beacf457cee7f76429aae9c763e6977dd6b114d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2828278962d1cb918c2d569352f74bfc8197fc70")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoTrack.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoTrack.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

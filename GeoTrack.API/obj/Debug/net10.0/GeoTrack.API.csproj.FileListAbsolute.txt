@@ -42,3 +42,12 @@ D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\obj\Debug\net10.0\refint\GeoTr
 D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\obj\Debug\net10.0\GeoTrack.API.pdb
 D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\obj\Debug\net10.0\GeoTrack.API.genruntimeconfig.cache
 D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\obj\Debug\net10.0\ref\GeoTrack.API.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\GeoTrack backend\GeoTrack-backend\GeoTrack.API\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
